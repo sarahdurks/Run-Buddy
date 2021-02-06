@@ -22,7 +22,7 @@ Building a website with HTML & CSS to fit a client mockup image. Work included:
 ## Authors, Acknowledgement, & Resources 🤝
 
 ### Teaching Crew at UCB Coding Bootcamp 🎉
-![Bootcamp Program](https://bootcamp.berkeley.edu/coding/)
+[Bootcamp Program](https://bootcamp.berkeley.edu/coding/)
 
 ### W3Schools 🤓
-![W3Schools HTML & CSS Resources](https://www.w3schools.com/)
+[W3Schools HTML & CSS Resources](https://www.w3schools.com/)
