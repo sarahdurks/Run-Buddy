@@ -4,6 +4,16 @@
   padding: 0;
 }
 
+div {
+  --favorite-color: blue;
+  color: var(--favorite-color);
+  box-shadow: 5px 5px 10px var(--favorite-color);
+}
+:root {
+  --primary-color: #fce138;
+  --secondary-color: #024e76;
+  --tertiary-color: #39a6b2;
+}
 body {
   color: #39a6b2;
   font-family: Helvetica, Arial, sans-serif;
