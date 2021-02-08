@@ -153,8 +153,13 @@ background-position: 80%;
   width: 100%;
   margin-bottom: 15px; 
   border-radius: 10px;
+  background-color: rgba(255,255,255, 0.75);
 }
 
+.form-input:focus {
+  background-color: rgba(255,255,255, 1);
+  outline: none;
+}
 .hero-form label {
   margin: 0 5px;
 }
@@ -346,6 +351,11 @@ background-position: 80%;
   border-radius: 10px;
 }
 
+.contact-form input, .contact-form textarea {
+}
+.contact-form input:focus, .contact-form textarea:focus {
+
+}
 .contact-form button {
   width: 100%;
   border: none;
@@ -436,6 +446,14 @@ background-position: 80%;
   }
   section {
     padding: 30px 15px;
+  }
+
+  .step:nth-child(even) {
+    border-bottom: 1px solid #39a6b2;
+  }
+
+  .step:not(:last-child) {
+    border-bottom: 1px solid #39a6b2;
   }
 
   .step h3 {
