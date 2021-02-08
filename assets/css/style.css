@@ -399,6 +399,13 @@ background-position: 80%;
     font-size: 20px;
   }
 
+  header nav ul li a:hover {
+    background: #fce138;
+    color: #024e76;
+    border-radius: 15px;
+    text-shadow: none;
+  }
+
   footer h2, footer div {
     text-align: center;
     width: 100%;
@@ -459,6 +466,9 @@ background-position: 80%;
   .hero-form button {
     width: 100%;
   }
+  .hero-form button:hover {
+    background-color: #39a6b2;  
+  }
 
   .section-title {
     width: 95%;
@@ -481,5 +491,9 @@ background-position: 80%;
   }
   .contact-form {
     order: 3;
+  }
+  .contact-form button:hover {
+    color: #fce138;
+    background: #39a6b2;
   }
 }
