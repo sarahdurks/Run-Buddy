@@ -20,6 +20,12 @@ header {
   flex-wrap: wrap;
   position: sticky;
   top: 0;
+  background-image: url('../images/hero-bg.jpg');
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+background-position: 80%;
+
 }
 
 header h1 {
@@ -94,7 +100,10 @@ section {
   display: flex;
   justify-content: center;
   flex-wrap: wrap;
-  align-items: flex-start
+  align-items: flex-start;
+  background-attachment: fixed;
+background-position: 80%;
+
 }
 
 .hero-cta {
@@ -377,6 +386,7 @@ section {
   header h1 {
     width: 100%;
     text-align: center;
+    position: relative
   }
 
   header nav ul {
