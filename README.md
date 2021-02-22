@@ -5,11 +5,11 @@
 |---|:---| 
 
 
-UC Berkeley's Coding week 1 project in UC Berkeley Coding Boot Camp Class Pracice      
+'Run Buddy' mock client website to learn HTML, CSS, Flexbox, etc.     
 
 
 ### Live Application Link 👀
-Run Buddy Site: [See Deployment on GitHub Pages]( https://sarahdurks.github.io/Run-Buddy/)
+Run Buddy Site: [See Deployment on GitHub Pages](https://sarahdurks.github.io/Run-Buddy/)
 
 ### Built With 🧰
 - HTML
