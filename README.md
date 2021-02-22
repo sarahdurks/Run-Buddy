@@ -3,7 +3,7 @@
   
 # Name
 UC Berkeley's Coding week 1 project in UC Berkeley Coding Boot Camp Class Pracice      
-![Frame 7](https://user-images.githubusercontent.com/77648727/108652405-e877e080-7478-11eb-8849-38aae4056232.png)
+![Frame 12](https://user-images.githubusercontent.com/77648727/108653319-fa5a8300-747a-11eb-9e4d-6b1137e2af72.png)
 
 
 ### Live Application Link 👀
