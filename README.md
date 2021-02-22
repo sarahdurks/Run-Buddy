@@ -9,6 +9,9 @@ UC Berkeley's Coding week 1 project in UC Berkeley Coding Boot Camp Class Pracic
  | UC Berkeley Coding Bootcamp <br> Week 1 & 2 Homework |
 |---|:---|
 
+
+![image 16 (2)](https://user-images.githubusercontent.com/77648727/108654344-54f4de80-747d-11eb-9a16-12318f82e4a8.png)
+
 ### Live Application Link 👀
 Run Buddy Site: [See Deployment on GitHub Pages]( https://sarahdurks.github.io/Run-Buddy/)
 
