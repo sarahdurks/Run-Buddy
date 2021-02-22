@@ -3,14 +3,11 @@
   
 # Name
 UC Berkeley's Coding week 1 project in UC Berkeley Coding Boot Camp Class Pracice      
-![image 16 (1)](https://user-images.githubusercontent.com/77648727/108653459-54f3df00-747b-11eb-8c4a-cb881ad88585.png)
 
-esult (click "Generate" to refresh) Copy to clipboard  Preview
 | 
 ![image 16 (1)](https://user-images.githubusercontent.com/77648727/108653459-54f3df00-747b-11eb-8c4a-cb881ad88585.png)  |   |   |
 |---|---|---|
 
-![image 16 (1)](https://user-images.githubusercontent.com/77648727/108653459-54f3df00-747b-11eb-8c4a-cb881ad88585.png)
 ### Live Application Link 👀
 Run Buddy Site: [See Deployment on GitHub Pages]( https://sarahdurks.github.io/Run-Buddy/)
 
