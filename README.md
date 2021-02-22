@@ -4,7 +4,8 @@
 # Name
 UC Berkeley's Coding week 1 project in UC Berkeley Coding Boot Camp Class Pracice      
 
-![image 16 (1)](https://user-images.githubusercontent.com/77648727/108653459-54f3df00-747b-11eb-8c4a-cb881ad88585.png)  | UC Berkeley Coding Bootcamp <br> Week 1 & 2 Homework |
+![image 16 (2)](https://user-images.githubusercontent.com/77648727/108654344-54f4de80-747d-11eb-9a16-12318f82e4a8.png)
+ | UC Berkeley Coding Bootcamp <br> Week 1 & 2 Homework |
 |---|:---|
 
 ### Live Application Link 👀
