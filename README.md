@@ -1,10 +1,8 @@
-![Thumbnail (8)](https://user-images.githubusercontent.com/77648727/108650174-cf206580-7473-11eb-93bb-daa76a1cf9da.png)
+![Frame 23](https://user-images.githubusercontent.com/77648727/109901082-3cd74900-7c4d-11eb-99ac-92fcff737a8a.png)
+
 
 # Name
-|![image 16 (2)](https://user-images.githubusercontent.com/77648727/108654344-54f4de80-747d-11eb-9a16-12318f82e4a8.png)| UC Berkeley Coding Bootcamp <br> Week 1 & 2 Homework |
-|---|:---| 
-
-
+UC Berkeley Coding Bootcamp <br> Week 1 & 2 Homework 
 'Run Buddy' mock client website to learn HTML, CSS, Flexbox, etc.     
 
 
