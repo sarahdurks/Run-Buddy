@@ -1,10 +1,10 @@
+
 ![Frame 23](https://user-images.githubusercontent.com/77648727/109901082-3cd74900-7c4d-11eb-99ac-92fcff737a8a.png)
 
 
 # Name
-UC Berkeley Coding Bootcamp <br> Week 1 & 2 Homework 
-'Run Buddy' mock client website to learn HTML, CSS, Flexbox, etc.     
-
+Run Buddy Responsive Website
+![Frame 50 (2)](https://user-images.githubusercontent.com/77648727/109911267-972cd580-7c5e-11eb-9a6d-a039cfa7a49b.png)
 
 ### Live Application Link 👀
 Run Buddy Site: [See Deployment on GitHub Pages](https://sarahdurks.github.io/Run-Buddy/)
