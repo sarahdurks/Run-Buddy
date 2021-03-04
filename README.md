@@ -3,7 +3,8 @@
 
 
 # Name
-Run Buddy Responsive Website
+Run Buddy Responsive Website       
+
 ![Frame 50 (2)](https://user-images.githubusercontent.com/77648727/109911267-972cd580-7c5e-11eb-9a6d-a039cfa7a49b.png)
 
 ### Live Application Link 👀
