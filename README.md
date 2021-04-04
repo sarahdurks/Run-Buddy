@@ -11,7 +11,7 @@ Run Buddy Responsive Website for a fitness client.
 Run Buddy Site: [See Deployment on GitHub Pages](https://sarahdurks.github.io/Run-Buddy/)
 
 ### Built With 🧰
-- HTML
+- HTML 
 - CSS
 
 # Work Completed
